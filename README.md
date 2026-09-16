@@ -24,7 +24,7 @@ My engineering approach connects software architecture with AI capabilities, n8n
 Degree: Electronics, Communication & Information Engineering
 Engineering Focus:
   - Software Engineering & Systems (Node.js, Express, TypeScript, JavaScript, Python, C++, Flutter)
-  - AI & Machine Learning Aspirant (Python, NumPy, Pandas, Scikit-Learn, PyTorch, AI Agents)
+  - AI & Machine Learning (Python, NumPy, Pandas, Scikit-Learn, PyTorch, AI Agents)
   - Workflow Automation (n8n, API Integrations, Automated Content Pipelines)
   - Creative Technology (Digital Publishing, News Media Platforms, Social Media Automation)
   - Domain Products (Media Platforms, Digital Tourism Infrastructure, Aviation Technology)
@@ -73,7 +73,7 @@ Core Mindset: "Building practical technology that bridges engineering with real-
 
 ### 🛠 Technology & Tools
 
-#### 🤖 AI & Machine Learning (AI Aspirant Stack)
+#### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
