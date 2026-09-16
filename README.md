@@ -158,9 +158,4 @@ Core Mindset: "Building practical technology that bridges engineering with real-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mijash09&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
----
 
-<p align="center">
-  <i>"Engineered with precision, powered by intelligent automation."</i><br>
-  ⭐️ <b>From <a href="https://github.com/mijash09">Mijash Bhugai</a></b>
-</p>
