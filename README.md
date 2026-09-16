@@ -18,16 +18,16 @@
 
 I am an **Electronics, Communication & Information Engineer** focused on building practical, real-world digital products at the intersection of software engineering, artificial intelligence, workflow automation, and domain-specific technologies. 
 
-My engineering approach connects software architecture with AI capabilities, n8n automation, content technology, and industry platforms such as digital tourism and aviation systems.
+My engineering approach connects software architecture with AI capabilities, n8n automation, content technology, and industry platforms such as digital news media, tourism infrastructure, and aviation systems.
 
 ```yaml
 Degree: Electronics, Communication & Information Engineering
 Engineering Focus:
-  - Software Engineering & Systems (Node.js, Express, C++, Python, Flutter)
+  - Software Engineering & Systems (Node.js, Express, C++, Python, Flutter, JavaScript)
   - AI & Intelligent Systems (Generative AI, AI APIs, AI Agents)
-  - Workflow Automation (n8n, API Integrations, Automated Pipelines)
-  - Creative Technology (Content Automation, Social Media Management)
-  - Domain Products (Digital Tourism Infrastructure, Aviation Technology)
+  - Workflow Automation (n8n, API Integrations, Automated Content Pipelines)
+  - Creative Technology (Digital Publishing, Social Media Management)
+  - Domain Products (Media Platforms, Digital Tourism Infrastructure, Aviation Technology)
 Core Mindset: "Building practical technology that bridges engineering with real-world industries."
 ```
 
@@ -36,9 +36,10 @@ Core Mindset: "Building practical technology that bridges engineering with real-
 ### 🔍 What I'm Exploring & Building
 
 - **🤖 Artificial Intelligence & Machine Learning**: Building with Generative AI, AI APIs, AI agents, and intelligent workflow integrations.
-- **⚡ Workflow Automation & n8n**: Designing automated pipelines combining `AI + APIs + n8n + Automation` to streamline operations and data flows.
+- **⚡ Workflow Automation & n8n**: Designing automated pipelines combining `AI + APIs + n8n + Automation` to streamline operations and content distribution.
+- **📰 Digital Media & Content Platforms**: Engineering responsive content delivery systems, news publishing engines, and automated media workflows.
 - **📲 Social Media Automation & Management**: Constructing automated publishing workflows, content scheduling pipelines, and AI-assisted distribution systems.
-- **🎨 Content Creation & Creative Technology**: Developing visual, educational, and AI-assisted content workflows and automated media pipelines.
+- **🎨 Content Creation & Creative Technology**: Developing visual, educational, and AI-assisted content workflows and automated asset pipelines.
 - **🏞️ Tourism Technology & Digital Products**: Currently developing a digital platform aimed at connecting travelers with accommodation, adventure activities, listings, and tourism services.
 - **✈️ Aviation & Aviation Technology**: Exploring digital systems, flight data integration, and technology applications across the aviation sector.
 - **💻 Software Engineering**: Crafting scalable backend APIs, database schemas, and cross-platform mobile applications.
@@ -55,14 +56,14 @@ Core Mindset: "Building practical technology that bridges engineering with real-
 ![API Integration](https://img.shields.io/badge/API_Integrations-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### 💻 Engineering & Software
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-#### 📱 Mobile & Web Development
+#### 📱 Mobile & Web Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -77,16 +78,17 @@ Core Mindset: "Building practical technology that bridges engineering with real-
 
 ---
 
-### 🚀 Featured Projects & Products
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="100%">
       <h3 align="left"><b>🚍 NFC-Based Fare Collection System (Sahaj Yatra)</b></h3>
       <p align="left">
-        <b>Status:</b> Monorepo Full-Stack Public Transportation System<br>
-        <b>Problem Addressed:</b> Inefficient manual fare collection and lack of live transit visibility in public bus systems.<br>
-        <b>Solution & Tech:</b> Engineered a monorepo featuring an Express.js/MongoDB API backend and a Flutter mobile/web app. Implemented NFC card tap-in/tap-out verification, balance deductions, Khalti payment recharge, live GPS bus tracking, and operator analytics dashboards.
+        <b>Status:</b> Completed Monorepo Full-Stack Public Transportation System<br>
+        <b>Problem Addressed:</b> Inefficient manual fare collection and lack of live transit visibility in public bus networks.<br>
+        <b>Solution & Key Architecture:</b> Built an integrated system combining a Node.js/Express API backend and a Flutter mobile/web application. Features NFC card tap-in/tap-out balance verification, Khalti payment gateway top-up, live GPS bus tracking with OpenStreetMap, and operator analytics dashboards.<br>
+        <b>Languages & Tech Stack:</b> JavaScript, Node.js, Express.js, MongoDB, Mongoose, Flutter, Dart, Riverpod, Dio, Socket.io, Khalti API, REST APIs.
       </p>
       <p align="left">
         <a href="https://github.com/mijash09/Final_Year_Project_NFC-Based_Fare_Collection_System">
@@ -97,11 +99,33 @@ Core Mindset: "Building practical technology that bridges engineering with real-
   </tr>
   <tr>
     <td width="100%">
-      <h3 align="left"><b>🏞️ Digital Tourism Ecosystem Platform</b></h3>
+      <h3 align="left"><b>📰 Sunstar News</b></h3>
+      <p align="left">
+        <b>Status:</b> Completed Digital News & Media Platform<br>
+        <b>Problem Addressed:</b> Delivering fast, structured, and responsive news content across digital channels with efficient publishing workflows.<br>
+        <b>Solution & Key Architecture:</b> Developed a modern news publishing platform delivering real-time news articles, categorized media feeds, content management workflows, responsive reader interfaces, SEO optimization, and clean data routing.<br>
+        <b>Languages & Tech Stack:</b> JavaScript, Node.js, Express.js, MongoDB / Database Systems, RESTful APIs, HTML5, CSS3, Modern Web Frameworks, Content Delivery Pipelines.
+      </p>
+      <p align="left">
+        <a href="https://github.com/mijash09/sunstar-news">
+          <img src="https://img.shields.io/badge/View_Repository-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏞️ Active Product Development
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="left"><b>🗺️ Digital Tourism Ecosystem Platform</b></h3>
       <p align="left">
         <b>Status:</b> Currently in Active Development<br>
-        <b>Problem Addressed:</b> Fragmented digital discovery and booking workflows for regional tourism, hotels, and adventure activities.<br>
-        <b>Solution & Focus:</b> Developing a tourism digital platform designed to connect travelers with accommodation listings, hotels, local adventure experiences, and booking services. Applying software engineering, API integrations, and workflow automation to modern tourism infrastructure.
+        <b>Scope & Focus:</b> Developing a digital tourism ecosystem designed to connect travelers with accommodation listings, hotels, local adventure activities, and booking services. Applying software engineering, API integrations, and workflow automation to modern tourism infrastructure.
       </p>
     </td>
   </tr>
