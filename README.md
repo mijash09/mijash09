@@ -16,9 +16,7 @@
 
 ### 💡 About Me
 
-I am an **Electronics, Communication & Information Engineer** focused on building practical, real-world digital products at the intersection of software engineering, artificial intelligence, workflow automation, and domain-specific technologies. 
-
-My engineering approach connects software architecture with AI capabilities, n8n automation, content technology, and industry platforms such as digital news media, tourism infrastructure, and aviation systems.
+> Electronics, Communication & Information Engineer building practical digital products at the intersection of software engineering, artificial intelligence, and intelligent workflow automation.
 
 ```yaml
 Degree: Electronics, Communication & Information Engineering
@@ -30,31 +28,6 @@ Engineering Focus:
   - Domain Products (Media Platforms, Digital Tourism Infrastructure, Aviation Technology)
 Core Mindset: "Building practical technology that bridges engineering with real-world industries."
 ```
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:mijashbhugai09@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://facebook.com/mijash09" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/mijash09" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/mijash09" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://linkedin.com/in/mijash09" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/mijash09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 ---
 
