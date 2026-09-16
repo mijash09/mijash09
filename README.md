@@ -33,6 +33,31 @@ Core Mindset: "Building practical technology that bridges engineering with real-
 
 ---
 
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:mijashbhugai09@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://facebook.com/mijash09" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/mijash09" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/mijash09" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://linkedin.com/in/mijash09" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mijash09" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
 ### 🔍 What I'm Exploring & Building
 
 - **🤖 Artificial Intelligence & Machine Learning**: Exploring core AI/ML fundamentals using Python, NumPy, Pandas, Scikit-Learn, PyTorch, and building with Generative AI, AI APIs, AI agents, and intelligent workflow integrations.
